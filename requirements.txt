@@ -1,0 +1,13 @@
+aiosqlite
+langchain
+langchain-core
+langchain-google-genai
+langchain-ollama
+langgraph
+langgraph-checkpoint-postgres
+langgraph-checkpoint-sqlite
+psycopg[binary]
+rich
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
